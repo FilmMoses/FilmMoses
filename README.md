@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FilmMoses
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on robotics
+- 👀 I’m interested in Data Production
+- 🌱 I’m currently learning Python Pytorch
+- 💞️ I’m looking to collaborate on Machine Learning/Data Analytics
 - 📫 How to reach me through email: Josephbenitez50@gmail.com /discord: filmmosesjwb
-- 😄 Pronouns: dont care
-- ⚡ Fun fact: i hate myself
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Gemini once denied a chess game against Atari's chess CPU after hearing the loss of Claude and OpenAI against the easy CPU.
 
 <!---
 FilmMoses/FilmMoses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
