@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FilmMoses
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in Data Production
 - 🌱 I’m currently learning Python Pytorch
 - 💞️ I’m looking to collaborate on Machine Learning/Data Analytics
